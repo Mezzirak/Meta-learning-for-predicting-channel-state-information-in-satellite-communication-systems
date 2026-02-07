@@ -14,7 +14,8 @@ Graphs/
 
 # Everything else by default
 *
-!T-LSTM.ipynb
+!/
 !.gitignore
+!T-LSTM.ipynb
 !README.md
 
