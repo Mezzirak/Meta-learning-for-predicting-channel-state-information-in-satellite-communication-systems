@@ -1,0 +1,2 @@
+# Meta-learning-for-predicting-channel-state-information-in-satellite-communication-systems
+Developing a meta-learning model to predict channel quality in satellite communication systems. Transfer knowledge from data-rich geometries (e.g mid-band, mid-elevation) to data-poor scenarios (e.g mmWave, low elevation) using T-LSTM base learner and residual meta-network, addressing channel aging with few-shot adaptation.
