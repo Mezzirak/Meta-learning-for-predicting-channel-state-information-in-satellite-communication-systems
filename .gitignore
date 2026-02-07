@@ -1,0 +1,18 @@
+# macOS junk
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# MATLAB
+*.m
+
+# Data / figures
+Graphs/
+
+# Everything else by default
+*
+!T-LSTM.ipynb
+!.gitignore
